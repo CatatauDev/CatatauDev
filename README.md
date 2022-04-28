@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CatatauDev
 - 🎮 I'm an Indie game developer.
 - 👀 I’m interested in Gamedev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me catataugamedev@gmail.com
 
 <!---
